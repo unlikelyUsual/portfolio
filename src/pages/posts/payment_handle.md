@@ -19,7 +19,7 @@ The growth rate of electronic transactions went higher than [10%](https://www.m
 
 ## Easy Right ?
 
-![Get Ready](/src/images/tenor.gif "Get Ready")
+![Get Ready](/images/tenor.gif "Get Ready")
 
 Let me tell you, it was no easy feat. But with a little bit of grit and a lot of coffee, we were able to create a system that not only met all of our requirements, but exceeded them.
 
@@ -37,7 +37,7 @@ Last but not least, we added a payment notification feature, so our customers wo
 
 ## Architecture overview
 
-![Payment Architecture](/src/images/architecture.png "Logo Title Text 1")
+![Payment Architecture](/images/architecture.png "Logo Title Text 1")
 
 When a user presses the "pay" button on our app, it sets the payment process in motion. Our backend sends the generated orderId to the client, which then initiates the Payment Gateway. The user completes the payment and the gateway closes with a callback. The client then displays a "Processing" screen to let the user know that the payment is being processed.
 
@@ -53,6 +53,6 @@ By using GCP Cloud Tasks, AWS step functions, and CRON Jobs, we've created a sys
 
 ## In Conclusion
 
-![Finally!](/src/images/one_punch.webp "Finally")
+![Finally!](/images/one_punch.webp "Finally")
 
 All in all, developing a payment handling system for Fello was a challenging but rewarding experience. And I'm happy to say that our hard work paid off - our system is now being used by customers all over the country. So, the next time you make a purchase on our platform and the payment goes through smoothly, you know who to thank (hint: it's me)
