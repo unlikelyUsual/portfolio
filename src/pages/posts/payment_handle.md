@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/post.astro
-title: "Payment Handling"
-pubDate: 2023-12-24
-description: "Unfold how to handle payment at fintech startup"
+title: "Mastering the Art of Payment Processing: A Step-by-Step Guide"
+pubDate: 2023-11-24
+description: "Mastering the Art of Payment Processing: A Step-by-Step Guide"
 author: "Prabhat"
 excerpt: Designing and developing a secure, robust, and scalable solution for handling payments
 image:
@@ -11,13 +11,13 @@ image:
 tags: ["fintech", "payment"]
 ---
 
-In this blog, we are going to unfold everything that there is to know about, the **Payment Handling,** and more. We bet by the end of the blog, you will have a better understanding of system.
+In this blog, we are going to unfold everything that there is to know about, the Payment Handling and more. We bet by the end of the blog, you will have a better understanding of system.
 
 As a backend engineer at Fello, a startup in the e-financial space, I was tasked with designing and developing a secure, robust, and scalable solution for handling payments.
 
 The growth rate of electronic transactions went higher than [10%](https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/accelerating%20winds%20of%20change%20in%20global%20payments/2020-mckinsey-global-payments-report-vf.pdf) in India. Digital payments are on rise every year. Every business has unique needs, and every business needs tailored payment solutions.
 
-## Easy Right ?
+## Easy Right?
 
 ![Get Ready](/images/tenor.gif "Get Ready")
 
@@ -37,7 +37,7 @@ Last but not least, we added a payment notification feature, so our customers wo
 
 ## Architecture overview
 
-![Payment Architecture](/images/architecture.png "Logo Title Text 1")
+![Payment Architecture](/images/payment_aws.png "Logo Title Text 1")
 
 When a user presses the "pay" button on our app, it sets the payment process in motion. Our backend sends the generated orderId to the client, which then initiates the Payment Gateway. The user completes the payment and the gateway closes with a callback. The client then displays a "Processing" screen to let the user know that the payment is being processed.
 

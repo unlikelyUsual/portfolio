@@ -1,14 +1,14 @@
 ---
 layout: ../../layouts/post.astro
-title: "How We Surf Internet "
-pubDate: 2023-12-23
-description: "Help us understand what happen when we type url in search bar."
+title: "From Key Strokes to Connections: How Typing a URL Powers the Internet"
+pubDate: 2023-11-30
+description: "From Key Strokes to Connections: How Typing a URL Powers the Internet"
 author: "Prabhat"
-excerpt: The process involves the browser, operating system, internet service provider, the server, and services running on that server
+excerpt: You go to this page by typing in a url or clicking on a link to the page. Have you ever thought about what happens behind the scenes?
 image:
   src:
   alt:
-tags: ["Internet", "Web"]
+tags: ["internet", "web", "dns"]
 ---
 
 Every day you open up your browser and navigate to your favorite websites — whether it be social media, news, or e-commerce sites. You go to this page by typing in a url or clicking on a link to the page. Have you ever thought about what happens behind the scenes?
