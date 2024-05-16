@@ -72,15 +72,17 @@ This request tells the server to fetch the index resource as GET method with HTT
 Now server can respond back with content of the resource.
 for eg :
 
-```
-HTTP/1.1 200 OK
-Content-Type: text/html; charset=utf-8
-... Headers
+```html
+HTTP/1.1 200 OK Content-Type: text/html; charset=utf-8 ... Headers
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>Index</head>
-<body>This is the Index page</body>
+  <head>
+    Index
+  </head>
+  <body>
+    This is the Index page
+  </body>
 </html>
 ```
 

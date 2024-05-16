@@ -54,13 +54,13 @@ This enables you to create secure and efficient architectures by segmenting your
 
 Command Template :
 
-```
+```bash
 ssh -i pemFilePath.pem -4 -N -L randomPort:rdsInstanceUrl:rdsInstancePort ec2User@ec2IP
 ```
 
 Example :
 
-```
+```bash
 ssh -i pg.pem -4 -N -L 5000:test-db.abc.region.rds.amazonaws.com:5432 ubuntu@0.0.0.0
 ```
 
