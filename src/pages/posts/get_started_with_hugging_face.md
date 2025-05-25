@@ -1,7 +1,13 @@
 ---
-title: "Taming the Hugging Face API with Python"
-date: 2024-09-29
+layout: ../../layouts/post.astro
+title: "Getting started with Hugging Face"
+pubDate: 2024-08-18
 description: "A personal journey of learning how to use the Hugging Face API with Python, from obtaining an API token to implementing it in your code."
+author: "Prabhat"
+excerpt: Bun is a modern JavaScript runtime and package manager that aims to provide a faster, more efficient development experience compared to traditional tools like Node.js.
+image:
+  src:
+  alt:
 tags: ["AI", "Python", "Hugging Face", "API", "Machine Learning"]
 ---
 
