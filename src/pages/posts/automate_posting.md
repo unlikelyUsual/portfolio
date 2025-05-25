@@ -8,7 +8,16 @@ excerpt: My personal content assistant that finds viral Reddit videos and posts 
 image:
   src:
   alt:
-tags: ["ai", "reddit", "python", "instagram"]
+tags:
+  [
+    "ai",
+    "reddit",
+    "python",
+    "instagram",
+    "MachineLearning",
+    "openai",
+    "huggingFace",
+  ]
 ---
 
 # From Reddit to Instagram: How I Automated My Content Curation with Python 🤖

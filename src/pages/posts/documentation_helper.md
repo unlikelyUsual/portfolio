@@ -16,12 +16,13 @@ tags:
     "Python",
     "MachineLearning",
     "DeveloperTools",
+    "huggingFace",
   ]
 ---
 
 # Building a Smart Documentation Assistant: My Journey with RAG and read any Docs 🚀
 
-_Or: How I taught my computer to become a Bun expert so I don't have to read docs anymore_
+_Or: How I taught my computer to become doc expert so I don't have to read docs anymore_
 
 ## The Problem: Documentation Overload 📚
 
@@ -293,4 +294,4 @@ And honestly? Building a robot that reads documentation so I don't have to feels
 
 ---
 
-_Want to see the code? Check out the [GitHub repository](https://github.com/your-username/langchain-rag) and feel free to contribute! And if you build your own documentation assistant, I'd love to hear about it._
+_Want to see the code? Check out the [GitHub repository](https://github.com/unlikelyUsual/langchain_python_rag) and feel free to contribute! And if you build your own documentation assistant, I'd love to hear about it._
