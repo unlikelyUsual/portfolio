@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/post.astro
 title: "How HTTPS Works: Securing Data Transmission on the Web"
-pubDate: 2023-11-30
+pubDate: 2024-01-17
 description: "Learn how HTTPS encrypts your data to ensure secure communication between your browser and web servers"
 author: "Prabhat"
 excerpt: "A deep dive into how HTTPS uses encryption to secure data transmission across the internet"
@@ -14,8 +14,6 @@ tags: ["internet", "web", "dns", "security", "encryption"]
 Hypertext Transfer Protocol Secure (HTTPS) is an extension of the Hypertext Transfer Protocol (HTTP.) HTTPS transmits encrypted data using Transport Layer Security (TLS.) If the data is hijacked online, all the hijacker gets is binary code.
 
 How is the data encrypted and decrypted?
-
-![Https Connection](/images/https_encryption.png "Http Connection")
 
 ## The HTTPS Handshake Process
 
