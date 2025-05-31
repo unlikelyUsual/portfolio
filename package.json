@@ -22,6 +22,7 @@
 		"astro": "^4.0.7",
 		"canvas-confetti": "^1.9.2",
 		"mdast-util-to-string": "^4.0.0",
+		"puppeteer": "^24.9.0",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
 		"reading-time": "^1.5.0",
