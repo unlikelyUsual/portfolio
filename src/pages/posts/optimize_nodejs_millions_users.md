@@ -1,9 +1,11 @@
 ---
+layout: ../../layouts/post.astro
 title: "Scaling Node.js to Handle Millions of Users: A Complete Guide"
 description: "Learn proven strategies to optimize Node.js applications for handling millions of concurrent users, from clustering to database optimization."
-publishDate: "2025-03-12"
+excerpt: "Optimize Node.js applications for handling millions of users"
+pubDate: 2025-03-12
+author: "Prabhat"
 tags: ["nodejs", "performance", "scaling", "optimization", "backend"]
-draft: false
 ---
 
 # Scaling Node.js to Handle Millions of Users: A Complete Guide
