@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/post.astro
-title: "Automate Posting from Reddit to Instagram"
+title: "Master NodeJs: 2025 Roadmap"
 pubDate: 2025-06-27
 description: "Master node.js runtime"
 author: "Prabhat"
@@ -11,7 +11,7 @@ image:
 tags: ["nodejs", "javascript", "expressjs", "http", "node", "event", "nextjs"]
 ---
 
-# How to Become a Pro in Node.js | 2025 Roadmap for Serious Devs
+# How to Become a Pro in Node.js
 
 Node.js continues to be a powerhouse in backend development thanks to its performance, scalability, and vibrant ecosystem. If you're serious about mastering Node.js in 2025, here’s a detailed roadmap to turn you into a professional Node.js developer.
 
